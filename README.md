@@ -1,6 +1,7 @@
 # zip_in_pdf
 PDF + ZIP 合并器：把ZIP文件打包至PDF文件中
 <p>pdf新文件会自动重命名，如new,new1,new2...</p>
+<p>图标文件：<img src="./img/a.ico" alt="image" height="30" width="30" /></p>
 <p><img src="./img/1.png" alt="image" height="224" width="419" /><img src="./img/2.png" alt="image" height="223" width="420" /></p>
 <p><img src="./img/3.png" alt="image" height="381" width="777" /></p>
 <p>&nbsp;</p>
@@ -14,5 +15,5 @@ PDF + ZIP 合并器：把ZIP文件打包至PDF文件中
 <pre class="language-python highlighter-hljs"><code>from PyInstaller.utils.hooks import collect_data_files
 datas = collect_data_files('tkinterdnd2')</code></pre>
 <p>&nbsp;</p>
-<p><span style="color: #000000;">成品链接<br /><span style="color: #ff0000;">https://xcherry.lanzouu.com/iQpQD32a0rwf</span></span></p>
+<p><span style="color: #000000;">成品链接<br /> <a  style="color: #ff0000;" rel="noopener" target="_blank" href="./img/PDF + ZIP 合并器.exe">PDF + ZIP 合并器.exe</a> </span></p>
 <p>&nbsp;</p>
